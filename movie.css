@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+.row{
+    height: 689px;
+    width: 1189px;
+    background-color: black;
+}
+.col{
+    height: 531px;
+    width: 190px;
+    border: white 2px solid;
+    position: absolute;
+    top: 35px;
+}
+.col-1{
+    left: 126px;
+}
+.col-2{
+    left: 327px;
+}
+.col-3{
+    left: 528px;
+}
+.col-4{
+    left: 729px;
+}
+.col-5{
+    left: 928px;
+}
+img{
+    width: 190px;
+    height: 215px;
+}
+h5{
+    text-align: center;
+    color: antiquewhite;
+}
+p{
+    color: antiquewhite;
+    text-align: center;
+}
